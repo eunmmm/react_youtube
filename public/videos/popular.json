@@ -1,0 +1,1536 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "jIETGADjOxNNSTuVSVGyMzvdZ1k",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "P46_RENvC9DFu32M7uoJ0A25bwE",
+      "id": "ut8kLRr3FjY",
+      "snippet": {
+        "publishedAt": "2023-12-08T16:13:02Z",
+        "channelId": "UCnmGIkw-KdI0W5siakKPKog",
+        "title": "I Tested 1-Star Theme Parks",
+        "description": "short kings unite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ut8kLRr3FjY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ut8kLRr3FjY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ut8kLRr3FjY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ut8kLRr3FjY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ut8kLRr3FjY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryan Trahan",
+        "tags": [
+          "Ryan",
+          "Trahan",
+          "1 star",
+          "theme parks",
+          "I tested reviews",
+          "hotels",
+          "amusement parks"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I Tested 1-Star Theme Parks",
+          "description": "short kings unite"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LhityibNN46FOLLlvCm4aFxBw_w",
+      "id": "Zu2z5M4gmno",
+      "snippet": {
+        "publishedAt": "2023-12-08T04:49:20Z",
+        "channelId": "UCqDS7KWjAPKv-7ZSlro9OiQ",
+        "title": "THE GAME AWARDS 2023: Official 4K Livestream (Monster Hunter, Blade, Baldur's Gate GOTY)",
+        "description": "Celebrate the best in video games and see what's next at THE GAME AWARDS, streaming live in 4K on YouTube from Peacock Theater in Los Angeles.  Geoff Keighley hosts this global showcase of video games with performances by The Game Awards Orchestra and more.\n\nVisit our website: http://www.thegameawards.com \n\nVisit The Game Awards in Fortnite: bit.ly/tgafortnite\n\nVisit http://thetruth.com/article/vaping-stress to learn more about how nicotine can impact stress and find other ways to cope, including quitting support.\n\nSubscribe to Watch more Game Awards:  http://bit.ly/tga18sub\n\nFollow The Game Awards on Twitter: http://www.twitter.com/thegameawards\n\nFollow The Game Awards on Instagram:\nhttp://www.instagram.com/thegameawards\n\nFollow Geoff Keighley on Twitter:\nhttp://www.twitter.com/geoffkeighley\n\n#thegameawards #gameoftheyear #tga2023 \nLicense Code: BPG8DVRW4LQMWRQA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zu2z5M4gmno/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zu2z5M4gmno/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zu2z5M4gmno/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zu2z5M4gmno/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zu2z5M4gmno/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "thegameawards",
+        "tags": [
+          "game awards",
+          "the game awards",
+          "gameplay",
+          "world premiere",
+          "video game awards",
+          "xbox",
+          "playstation",
+          "nintendo",
+          "geoff keighley",
+          "game of the year",
+          "tga",
+          "trailer",
+          "first look",
+          "steam",
+          "steamdeck",
+          "flute guy"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "THE GAME AWARDS 2023: Official 4K Livestream (Monster Hunter, Blade, Baldur's Gate GOTY)",
+          "description": "Celebrate the best in video games and see what's next at THE GAME AWARDS, streaming live in 4K on YouTube from Peacock Theater in Los Angeles.  Geoff Keighley hosts this global showcase of video games with performances by The Game Awards Orchestra and more.\n\nVisit our website: http://www.thegameawards.com \n\nVisit The Game Awards in Fortnite: bit.ly/tgafortnite\n\nVisit http://thetruth.com/article/vaping-stress to learn more about how nicotine can impact stress and find other ways to cope, including quitting support.\n\nSubscribe to Watch more Game Awards:  http://bit.ly/tga18sub\n\nFollow The Game Awards on Twitter: http://www.twitter.com/thegameawards\n\nFollow The Game Awards on Instagram:\nhttp://www.instagram.com/thegameawards\n\nFollow Geoff Keighley on Twitter:\nhttp://www.twitter.com/geoffkeighley\n\n#thegameawards #gameoftheyear #tga2023 \nLicense Code: BPG8DVRW4LQMWRQA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KM6aTbgDMv4k0P8MEtXluavV0Oc",
+      "id": "5urG-peL-V4",
+      "snippet": {
+        "publishedAt": "2023-12-08T15:34:48Z",
+        "channelId": "UCiy0qvV3pNqZH7T2dziPSog",
+        "title": "HoneyKomb Brazy & Birdman - Dis Datt (Official Video) shot by Cash Jundi",
+        "description": "HoneyKomb Brazy & Birdman - Dis Datt (Official Video) shot by Cash Jundi\n\nFOLLOW HONEYKOMB BRAZY:\nInstagram: https://instagram.com/honeykombbrazy?utm_medium=copy_link\nTwitter: https://twitter.com/honeykombbrazy\nFacebook: https://www.facebook.com/hkbrazy/\n\n#HoneyKombBrazy #Birdman #DisDatt",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5urG-peL-V4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5urG-peL-V4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5urG-peL-V4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/5urG-peL-V4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/5urG-peL-V4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Honeykomb Brazy",
+        "tags": [
+          "HoneyKomb Brazy",
+          "Birdman",
+          "Dis Datt",
+          "honeykomb brazy birdman",
+          "honeykomb brazy dis datt",
+          "honeykomb brazy birdman dis datt",
+          "honeykomb brazy birdman official video",
+          "birdman official video",
+          "dis datt official video",
+          "honeykomb brazy birdman dis datt official video",
+          "honeykomb brazy official video"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "HoneyKomb Brazy & Birdman - Dis Datt (Official Video) shot by Cash Jundi",
+          "description": "HoneyKomb Brazy & Birdman - Dis Datt (Official Video) shot by Cash Jundi\n\nFOLLOW HONEYKOMB BRAZY:\nInstagram: https://instagram.com/honeykombbrazy?utm_medium=copy_link\nTwitter: https://twitter.com/honeykombbrazy\nFacebook: https://www.facebook.com/hkbrazy/\n\n#HoneyKombBrazy #Birdman #DisDatt"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZjzR8yt9ZevKaU88PUIl3jNNKmo",
+      "id": "7Sga9tSq5RE",
+      "snippet": {
+        "publishedAt": "2023-12-08T13:31:12Z",
+        "channelId": "UC1FbPiXx59_ltnFVx7IxWow",
+        "title": "Massive Weekend Storm To Slam Eastern US With Damaging Winds, Severe Storms, Snow",
+        "description": "A complex weather situation is developing for the eastern half of the U.S. this weekend as a budding storm system will deliver widespread rain, damaging winds, severe storms and even areas of snow. #foxweather #weather\n\nSubscribe to FOX Weather!\nWatch more FOX Weather videos: https://www.foxweather.com/video\nWe’ve got you covered! Whether you’re planning your morning commute or keeping a close eye on a severe storm, no one keeps you prepared like FOX Weather - the perfect resource to keep you safe and secure from whatever Mother Nature throws your way. FOX Weather, Weathering It Together!\nHere's how you can stay safe with the FOX Weather app:\n·        Get alerts for dangerous weather in your area\n·        Stream our 24/7 live coverage with our hurricane experts\n·        Track storms in your area with the 3D mobile radar\nDownload for free on iOS and Android devices: bit.ly/3SF7Mhl\nWant to watch us on TV? You can find us on The Roku Channel, Fire TV, and YouTube TV or your favorite streaming device.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7Sga9tSq5RE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7Sga9tSq5RE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7Sga9tSq5RE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/7Sga9tSq5RE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/7Sga9tSq5RE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FOX Weather",
+        "tags": [
+          "severe storms",
+          "severe weather",
+          "east coast",
+          "damaging winds",
+          "eastern us",
+          "severe storm",
+          "weekend storm",
+          "heavy rain",
+          "weather news",
+          "winter weather",
+          "heavy snow",
+          "fox weather",
+          "weather forecast",
+          "snow"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Massive Weekend Storm To Slam Eastern US With Damaging Winds, Severe Storms, Snow",
+          "description": "A complex weather situation is developing for the eastern half of the U.S. this weekend as a budding storm system will deliver widespread rain, damaging winds, severe storms and even areas of snow. #foxweather #weather\n\nSubscribe to FOX Weather!\nWatch more FOX Weather videos: https://www.foxweather.com/video\nWe’ve got you covered! Whether you’re planning your morning commute or keeping a close eye on a severe storm, no one keeps you prepared like FOX Weather - the perfect resource to keep you safe and secure from whatever Mother Nature throws your way. FOX Weather, Weathering It Together!\nHere's how you can stay safe with the FOX Weather app:\n·        Get alerts for dangerous weather in your area\n·        Stream our 24/7 live coverage with our hurricane experts\n·        Track storms in your area with the 3D mobile radar\nDownload for free on iOS and Android devices: bit.ly/3SF7Mhl\nWant to watch us on TV? You can find us on The Roku Channel, Fire TV, and YouTube TV or your favorite streaming device."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "r4hkfZaldKZZK67OUHRp2hT9LM8",
+      "id": "basLDO2bj2k",
+      "snippet": {
+        "publishedAt": "2023-12-08T02:48:22Z",
+        "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+        "title": "Marvel’s Blade | Announcement Trailer | The Game Awards 2023",
+        "description": "In Marvel’s Blade, Eric Brooks is the legendary Daywalker, half-man, half-vampire torn between the warm society of the living and the rushing power of the undead. From Bethesda and Arkane Lyon, the studio that brought you Dishonored and “DEATHLOOP”, Marvel’s Blade is a mature, single-player, third-person game set in the heart of Paris, now in development in collaboration with Marvel Games.\n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: \u202ahttps://twitter.com/marvel\nLike Marvel on Facebook: \u202ahttps://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: \u202ahttp://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: \u202ahttp://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/basLDO2bj2k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/basLDO2bj2k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/basLDO2bj2k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/basLDO2bj2k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/basLDO2bj2k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Marvel Entertainment",
+        "tags": ["marvel", "comics"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Marvel’s Blade | Announcement Trailer | The Game Awards 2023",
+          "description": "In Marvel’s Blade, Eric Brooks is the legendary Daywalker, half-man, half-vampire torn between the warm society of the living and the rushing power of the undead. From Bethesda and Arkane Lyon, the studio that brought you Dishonored and “DEATHLOOP”, Marvel’s Blade is a mature, single-player, third-person game set in the heart of Paris, now in development in collaboration with Marvel Games.\n\n► Watch Marvel on Disney+: https://bit.ly/2XyBSIW\n► Subscribe to Marvel on YouTube: http://bit.ly/WeO3YJ\n\nFollow Marvel on Twitter: \u202ahttps://twitter.com/marvel\nLike Marvel on Facebook: \u202ahttps://www.facebook.com/marvel\nWatch Marvel on Twitch: https://www.twitch.tv/marvel\n\nReward your Marvel fandom by joining Marvel Insider!\nEarn points, then redeem for awesome rewards.\nTerms and conditions apply. \nLearn more at https://www.marvel.com/insider?Osocial=YT&CID=MarvelInsider\n\nFor even more news, stay tuned to:\nTumblr: \u202ahttp://marvelentertainment.tumblr.com/\nInstagram: https://www.instagram.com/marvel\nPinterest: \u202ahttp://pinterest.com/marvelofficial\nReddit: http://reddit.com/u/marvel-official"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "aGfaoG__kNQCaY8V5_klD10q4WI",
+      "id": "973Ct2AC3EA",
+      "snippet": {
+        "publishedAt": "2023-12-08T05:30:26Z",
+        "channelId": "UCs56ffejFhWlCvlvRIdpb9Q",
+        "title": "Fighter - Teaser | Hrithik Roshan | Deepika Padukone | Anil Kapoor | Siddharth Anand | 25 Jan 2024",
+        "description": "कभी उड़ान के लिए, कभी जंग के लिए और हर बार देश के लिए...\n#Fighter Forever 🇮🇳 #FighterTeaser out now. \n\n#FighterOn25thJan \n\nCredits: \nMovie: Fighter \nStarring: Hrithik Roshan, Deepika Padukone, Anil Kapoor, Karan Singh Grover, Akshay Oberoi \nDirector: Siddharth Anand \nProducer: Mamta Anand, Ramon Chibb, Anku Pande, Kevin Vaz, Ajit Andhare \nCo-Producer: Prime Focus Studios \nMusic: Vishal and Sheykhar\nDirector of Photography: Satchith Paulose\nLyrics: Kumaar\nStory: Siddharth Anand, Ramon Chibb\nScreenplay: Ramon Chibb\nDialogues: Hussain Dalal and Abbas Dalal\nProduction Designer: Rajat Poddar\nEditor: Aarif Shiekh\nVisual Effects Studio: Redefine and Dneg \nTeaser: Siddharth S Pande  (Feed The Wolf)\n\nViacom18 Studios Team\nMarketing: Rudrarup Datta\nSales & Distribution: Neeraj Goswamy\nSyndication: Gayatri Gulati \nBusiness Planning & Content Alliances: Pradeep Prabhu\n\nViacom18 Studios Handles :-\r\n\r\nFacebook:- https://www.facebook.com/Viacom18Studios/\r\nTwitter :- https://twitter.com/Viacom18Studios\r\nInstagram:- https://www.instagram.com/viacom18studios",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/973Ct2AC3EA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/973Ct2AC3EA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/973Ct2AC3EA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/973Ct2AC3EA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/973Ct2AC3EA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Viacom18 Studios",
+        "tags": ["Movies", "Bollywood"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Fighter - Teaser | Hrithik Roshan | Deepika Padukone | Anil Kapoor | Siddharth Anand | 25 Jan 2024",
+          "description": "कभी उड़ान के लिए, कभी जंग के लिए और हर बार देश के लिए...\n#Fighter Forever 🇮🇳 #FighterTeaser out now. \n\n#FighterOn25thJan \n\nCredits: \nMovie: Fighter \nStarring: Hrithik Roshan, Deepika Padukone, Anil Kapoor, Karan Singh Grover, Akshay Oberoi \nDirector: Siddharth Anand \nProducer: Mamta Anand, Ramon Chibb, Anku Pande, Kevin Vaz, Ajit Andhare \nCo-Producer: Prime Focus Studios \nMusic: Vishal and Sheykhar\nDirector of Photography: Satchith Paulose\nLyrics: Kumaar\nStory: Siddharth Anand, Ramon Chibb\nScreenplay: Ramon Chibb\nDialogues: Hussain Dalal and Abbas Dalal\nProduction Designer: Rajat Poddar\nEditor: Aarif Shiekh\nVisual Effects Studio: Redefine and Dneg \nTeaser: Siddharth S Pande  (Feed The Wolf)\n\nViacom18 Studios Team\nMarketing: Rudrarup Datta\nSales & Distribution: Neeraj Goswamy\nSyndication: Gayatri Gulati \nBusiness Planning & Content Alliances: Pradeep Prabhu\n\nViacom18 Studios Handles :-\r\n\r\nFacebook:- https://www.facebook.com/Viacom18Studios/\r\nTwitter :- https://twitter.com/Viacom18Studios\r\nInstagram:- https://www.instagram.com/viacom18studios"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RMWKMUt7z5tgL5h16GI_0uJVj6c",
+      "id": "muzQ0r14L2Y",
+      "snippet": {
+        "publishedAt": "2023-12-08T00:00:31Z",
+        "channelId": "UCWICXNlSLc7eeNazpzUZcLg",
+        "title": "NLE Choppa - Shotta Flow 7 “FINAL” (Official Music Video)",
+        "description": "NLE Choppa - Shotta Flow 7 (Official Music Video)\n\nStream Cottonwood 2 Deluxe 2.0 now: https://nlechoppa.lnk.to/Cottonwood2Deluxe2.0\n\n🔔 Subscribe to my channel: http://bit.ly/2vNE1CW\n\nCredits:\nWolfe Productions\nhttps://youtube.com/@wolfeproductions901?si=uW6d1BS4r8xeTpvt\n@prodwolfe\n\nLyrics:\nI was missin in action like Chrisean tooth Back letting loose like a nigga had to point Imma god in Memphis who bigger than me The shit that they did I did at 16\nHe flexing his money we know that he broke Dick in her mouth NLE throat coat\nHe pressed bout a girl that’s fucking the city He tender we call him diddy\nChoppa so big knock the weight off biggie I’m some like pussy this shit a get sticky Got me in that mode ion plan on glitching I’m back, nigga like I had an addiction\nDropped him Lego\nHe couldn’t take those Switches and dracos Shooters on payroll\nNigga don’t won’t no smoke they snoop dog We show up to yo door like uhaul\nLil nigga with a pistol stand tall\nQuick to pop a nigga ass like a Adderall\nShaking the spot like a ass or some\nLil bruh sped he crash for none\nWalk out the house with a mask and gun Better hold yo breath like a asthma pump\nI move like the pope\n100 some shots inna ghost\nBetter think twice don’t approach No regular Glocks\nKnow that it came with a box\nWe stepping like shoes and socks\nOne of the realest how can you not mention we slid out a civic now rolls Royce whippin She sucking and spitting double jerking twisting killing my kids like abortion clinics\nTake some from who he line man\nNigga don’t feel like dying man\nCook em like grease in a frying pan\nWe don kilt mo niggas then the klansman\nKkk got ks on ks wanna fuck Kim k and make Kanye watch\nAye bay bay in the club with a drake gen 5 Glock Going down like joc\n100 shots inna whip it was shot o’clock\nHe can run from Nigga but not from this Glock Don’t ask me if it’s one up top\nThat’s like asking Floyd Mayweather do he box\nWalk down on his cat\n9 lives he cap\nPut his head in his lap we dicked em\nMake the choppa clap\nMake it sound like a rapper Imma hit this bitch with a rhyme\nMy dog sick em\nCondition critical\nSuspect nigga weon never been a victim 7.62 trip em\nIf I don’t got em tevo a get em\nI might just O fuck that percs killing Slow fuck that, if I see his hoe Fuck That, last shotta flow fuck that\n\nWEBSITE: MERCH\nhttps://nlechoppa.warnerrecords.com/\n\nFollow NLE Choppa:\nTxt: (901) 245-5603\nWeb: https://nlechoppa.com\nEmail:  https://nlechoppa.com/mailing-list\nInstagram: https://instagram.com/nlechoppamusic\nFacebook: https://facebook.com/nlechoppamusic\nTwitter: https://twitter.com/nlechoppa1\nSnapchat: https://snapchat.com/add/nlechoppamusic\nTikTok: https://www.tiktok.com/@nlechoppamusic\nTriller: https://triller.co/@nlechoppa\n\n#nlechoppa #cottonwood2 #shottaflow",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/muzQ0r14L2Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/muzQ0r14L2Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/muzQ0r14L2Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/muzQ0r14L2Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NLE CHOPPA",
+        "tags": [
+          "nle choppa",
+          "nle choppa new music",
+          "nle choppa music",
+          "nle music",
+          "cottonwood 2",
+          "cottonwood2",
+          "nle chopa",
+          "nle choppa music video",
+          "nle choppa deluxe",
+          "chopa cottonwood2",
+          "cottonwood2 deluxe",
+          "nle",
+          "choppa",
+          "cottonwood 2.0",
+          "deluxe 2.0",
+          "nle choppa deluxe 2",
+          "aunties living room",
+          "nle choppa aunties living room",
+          "nle choppa videos",
+          "nlw choppa",
+          "cottonwood",
+          "nle choppa new album",
+          "nle choppa cottonwood",
+          "nle choppa auntie",
+          "choppa shotta flow",
+          "shotta flow",
+          "nle choppa shotta flow 7",
+          "shotta flow 7"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "NLE Choppa - Shotta Flow 7 “FINAL” (Official Music Video)",
+          "description": "NLE Choppa - Shotta Flow 7 (Official Music Video)\n\nStream Cottonwood 2 Deluxe 2.0 now: https://nlechoppa.lnk.to/Cottonwood2Deluxe2.0\n\n🔔 Subscribe to my channel: http://bit.ly/2vNE1CW\n\nCredits:\nWolfe Productions\nhttps://youtube.com/@wolfeproductions901?si=uW6d1BS4r8xeTpvt\n@prodwolfe\n\nLyrics:\nI was missin in action like Chrisean tooth Back letting loose like a nigga had to point Imma god in Memphis who bigger than me The shit that they did I did at 16\nHe flexing his money we know that he broke Dick in her mouth NLE throat coat\nHe pressed bout a girl that’s fucking the city He tender we call him diddy\nChoppa so big knock the weight off biggie I’m some like pussy this shit a get sticky Got me in that mode ion plan on glitching I’m back, nigga like I had an addiction\nDropped him Lego\nHe couldn’t take those Switches and dracos Shooters on payroll\nNigga don’t won’t no smoke they snoop dog We show up to yo door like uhaul\nLil nigga with a pistol stand tall\nQuick to pop a nigga ass like a Adderall\nShaking the spot like a ass or some\nLil bruh sped he crash for none\nWalk out the house with a mask and gun Better hold yo breath like a asthma pump\nI move like the pope\n100 some shots inna ghost\nBetter think twice don’t approach No regular Glocks\nKnow that it came with a box\nWe stepping like shoes and socks\nOne of the realest how can you not mention we slid out a civic now rolls Royce whippin She sucking and spitting double jerking twisting killing my kids like abortion clinics\nTake some from who he line man\nNigga don’t feel like dying man\nCook em like grease in a frying pan\nWe don kilt mo niggas then the klansman\nKkk got ks on ks wanna fuck Kim k and make Kanye watch\nAye bay bay in the club with a drake gen 5 Glock Going down like joc\n100 shots inna whip it was shot o’clock\nHe can run from Nigga but not from this Glock Don’t ask me if it’s one up top\nThat’s like asking Floyd Mayweather do he box\nWalk down on his cat\n9 lives he cap\nPut his head in his lap we dicked em\nMake the choppa clap\nMake it sound like a rapper Imma hit this bitch with a rhyme\nMy dog sick em\nCondition critical\nSuspect nigga weon never been a victim 7.62 trip em\nIf I don’t got em tevo a get em\nI might just O fuck that percs killing Slow fuck that, if I see his hoe Fuck That, last shotta flow fuck that\n\nWEBSITE: MERCH\nhttps://nlechoppa.warnerrecords.com/\n\nFollow NLE Choppa:\nTxt: (901) 245-5603\nWeb: https://nlechoppa.com\nEmail:  https://nlechoppa.com/mailing-list\nInstagram: https://instagram.com/nlechoppamusic\nFacebook: https://facebook.com/nlechoppamusic\nTwitter: https://twitter.com/nlechoppa1\nSnapchat: https://snapchat.com/add/nlechoppamusic\nTikTok: https://www.tiktok.com/@nlechoppamusic\nTriller: https://triller.co/@nlechoppa\n\n#nlechoppa #cottonwood2 #shottaflow"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EVPRqOOWXIKxvsfAsbbpLCVZnAo",
+      "id": "885j2xO9VB8",
+      "snippet": {
+        "publishedAt": "2023-12-08T05:00:11Z",
+        "channelId": "UCWot_hGZs3ovEEzAKu_EzLw",
+        "title": "Finesse2Tymes - Crazy [Official Music Video]",
+        "description": "FOLLOW FINESSE2TYMES\nInstagram: https://Finesse2Tymes.lnk.to/Instagram\nTikTok: https://Finesse2Tymes.lnk.to/TikTok\nTwitter: https://Finesse2Tymes.lnk.to/Twitter\nFacebook: https://Finesse2Tymes.lnk.to/Facebook\nDiscord: https://finesse2tymes.lnk.to/Discord\n\nSUBSCRIBE TO FINESSE2TYMES YOUTUBE\nhttps://Finesse2Tymes.lnk.to/Youtube\n\nLISTEN TO FINESSE2TYMES\nApple: https://Finesse2Tymes.lnk.to/AppleMusic\nSpotify: https://Finesse2Tymes.lnk.to/Spotify\nAmazon: https://Finesse2Tymes.lnk.to/Amazon\nSoundcloud: https://Finesse2Tymes.lnk.to/SoundCloud\nAudiomack: https://Finesse2Tymes.lnk.to/Audiomack\n \nThe official YouTube channel of Finesse2Tymes. Subscribe for the latest music videos, performances, and more.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/885j2xO9VB8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/885j2xO9VB8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/885j2xO9VB8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/885j2xO9VB8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/885j2xO9VB8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Finesse2tymes",
+        "tags": [
+          "Finesse2Tymes",
+          "Finesse 2 Tymes",
+          "Finesse 2Tymes",
+          "Finesse2Times",
+          "Finesse 2 Times",
+          "Finesse 2Times",
+          "Finesse Two Tymes",
+          "1finesse2tymes",
+          "Moneybagg Yo",
+          "Bread Gang",
+          "J Prince",
+          "Mob Ties",
+          "back end",
+          "it's cool when they do it",
+          "its cool when they do it",
+          "it's a problem when I do it",
+          "its a problem when I do it",
+          "luv n hip hop",
+          "tiktok"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Finesse2Tymes - Crazy [Official Music Video]",
+          "description": "FOLLOW FINESSE2TYMES\nInstagram: https://Finesse2Tymes.lnk.to/Instagram\nTikTok: https://Finesse2Tymes.lnk.to/TikTok\nTwitter: https://Finesse2Tymes.lnk.to/Twitter\nFacebook: https://Finesse2Tymes.lnk.to/Facebook\nDiscord: https://finesse2tymes.lnk.to/Discord\n\nSUBSCRIBE TO FINESSE2TYMES YOUTUBE\nhttps://Finesse2Tymes.lnk.to/Youtube\n\nLISTEN TO FINESSE2TYMES\nApple: https://Finesse2Tymes.lnk.to/AppleMusic\nSpotify: https://Finesse2Tymes.lnk.to/Spotify\nAmazon: https://Finesse2Tymes.lnk.to/Amazon\nSoundcloud: https://Finesse2Tymes.lnk.to/SoundCloud\nAudiomack: https://Finesse2Tymes.lnk.to/Audiomack\n \nThe official YouTube channel of Finesse2Tymes. Subscribe for the latest music videos, performances, and more."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gwWthIxeEQALOLQUrOx5GYi7cEg",
+      "id": "LFjYefGroLE",
+      "snippet": {
+        "publishedAt": "2023-12-08T13:00:14Z",
+        "channelId": "UC2CCXzC56k0b8L49R_iW-Yw",
+        "title": "DaBaby - NO FINSTA (Official Music Video)",
+        "description": "DaBaby - NO FINSTA\n'LETS DO IT' Out Now: https://dababy.lnk.to/LETSDOIT\nSpotify: https://dababy.lnk.to/LETSDOIT/spotify\nApple Music: https://dababy.lnk.to/LETSDOIT/applemusic\nAmazon: https://dababy.lnk.to/LETSDOIT/amazonmusic\n\nConnect:\n https://www.instagram.com/dababy/\nhttps://twitter.com/DaBabyDaBaby\nhttps://www.facebook.com/babyjesus704\n\n#Dababy #NOFINSTA #LETSDOIT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LFjYefGroLE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LFjYefGroLE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LFjYefGroLE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LFjYefGroLE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LFjYefGroLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DaBaby",
+        "tags": ["DaBaby", "Baby Jesus", "Charlotte", "Hip Hop", "Rap"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "DaBaby - NO FINSTA (Official Music Video)",
+          "description": "DaBaby - NO FINSTA\n'LETS DO IT' Out Now: https://dababy.lnk.to/LETSDOIT\nSpotify: https://dababy.lnk.to/LETSDOIT/spotify\nApple Music: https://dababy.lnk.to/LETSDOIT/applemusic\nAmazon: https://dababy.lnk.to/LETSDOIT/amazonmusic\n\nConnect:\n https://www.instagram.com/dababy/\nhttps://twitter.com/DaBabyDaBaby\nhttps://www.facebook.com/babyjesus704\n\n#Dababy #NOFINSTA #LETSDOIT"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BDxEqf_iHZvkRt-eA5JjfA1hgqg",
+      "id": "UinsNBOTNyU",
+      "snippet": {
+        "publishedAt": "2023-12-08T02:13:08Z",
+        "channelId": "UCuTNKMG8HCxb2kYbLXjXTTg",
+        "title": "Jurassic Park: Survival | Announcement Trailer",
+        "description": "Introducing Jurassic Park: Survival, an upcoming single-player action-adventure for PC, PlayStation 5, and Xbox Series X|S!\n\n:::: FOLLOW US ::::\nFacebook: https://www.facebook.com/jurassicparksurvival\nInstagram: https://www.instagram.com/jurassicparksurvival/\nTikTok: https://www.tiktok.com/@jurassicparksurvival\nX: https://twitter.com/jpsurvival\n\n:::: FOR MORE ::::\nwww.jurassicparksurvival.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UinsNBOTNyU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UinsNBOTNyU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UinsNBOTNyU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UinsNBOTNyU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UinsNBOTNyU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jurassic World",
+        "tags": [
+          "Jurassic World",
+          "jurassic world",
+          "jurassic park",
+          "jurassic world trailer",
+          "playstation games",
+          "jurassic park trailer",
+          "dinosaur gameplay",
+          "Jurassic Park: Survival",
+          "jurassic park survival game",
+          "jurassic park survival",
+          "xbox series x",
+          "ps5",
+          "jurassic park game",
+          "jurassic world game",
+          "the game awards trailer",
+          "jurassic survival",
+          "survival jurassic park"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jurassic Park: Survival | Announcement Trailer",
+          "description": "Introducing Jurassic Park: Survival, an upcoming single-player action-adventure for PC, PlayStation 5, and Xbox Series X|S!\n\n:::: FOLLOW US ::::\nFacebook: https://www.facebook.com/jurassicparksurvival\nInstagram: https://www.instagram.com/jurassicparksurvival/\nTikTok: https://www.tiktok.com/@jurassicparksurvival\nX: https://twitter.com/jpsurvival\n\n:::: FOR MORE ::::\nwww.jurassicparksurvival.com"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_kOx6Ca8Oy48ts9nnaMjN63auNw",
+      "id": "C44_HrseDSs",
+      "snippet": {
+        "publishedAt": "2023-12-08T01:18:26Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "God of War Ragnarök: Valhalla - Reveal Trailer | PS5 & PS4 Games",
+        "description": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/\n\nEmbark with Kratos to Valhalla on a deeply personal and reflective journey towards a future he never thought possible. Master challenges of mind and body on an unraveling adventure that blends the beloved combat from God of War Ragnarök with brand new elements inspired by the roguelite genre.  \n\nDeveloped by Santa Monica Studio for PlayStation®4 and PlayStation®5 consoles – free to download from PlayStation™Store. God of War Ragnarök base game required (sold separately). \n\nAvailable December 12, 2023. \n\n©2023 Sony Interactive Entertainment LLC. God of War is a registered trademark of Sony Interactive Entertainment LLC and related companies in the U.S. and other countries. “PlayStation Family Mark”, “PlayStation”, “PlayStation Studios logo”, \"PS4\", and “PS5” are registered trademarks or trademarks of Sony Interactive Entertainment Inc. \n\n#ps5 #ps5games #ps4 #ps4games #godofwarragnarok #godofwarragnarok #thegameawards \n\nRated Mature",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C44_HrseDSs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C44_HrseDSs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C44_HrseDSs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C44_HrseDSs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C44_HrseDSs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "PlayStation",
+        "tags": [
+          "PlayStation",
+          "PS5",
+          "video games",
+          "next gen",
+          "Sony",
+          "god of war",
+          "gowr",
+          "gow",
+          "gow2018",
+          "kratos",
+          "atreus",
+          "valhalla",
+          "gow dlc",
+          "dlc",
+          "gowr dlc",
+          "gowrv",
+          "gowr valhalla",
+          "god of war ragnarok",
+          "god of war ragnarok valhalla",
+          "god of war 2018"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "God of War Ragnarök: Valhalla - Reveal Trailer | PS5 & PS4 Games",
+          "description": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/\n\nEmbark with Kratos to Valhalla on a deeply personal and reflective journey towards a future he never thought possible. Master challenges of mind and body on an unraveling adventure that blends the beloved combat from God of War Ragnarök with brand new elements inspired by the roguelite genre.  \n\nDeveloped by Santa Monica Studio for PlayStation®4 and PlayStation®5 consoles – free to download from PlayStation™Store. God of War Ragnarök base game required (sold separately). \n\nAvailable December 12, 2023. \n\n©2023 Sony Interactive Entertainment LLC. God of War is a registered trademark of Sony Interactive Entertainment LLC and related companies in the U.S. and other countries. “PlayStation Family Mark”, “PlayStation”, “PlayStation Studios logo”, \"PS4\", and “PS5” are registered trademarks or trademarks of Sony Interactive Entertainment Inc. \n\n#ps5 #ps5games #ps4 #ps4games #godofwarragnarok #godofwarragnarok #thegameawards \n\nRated Mature"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tjEIY9igcOOSB8Q4m4tXl3KVHuM",
+      "id": "bSCANspTDeE",
+      "snippet": {
+        "publishedAt": "2023-12-08T01:55:32Z",
+        "channelId": "UC_ntXHv-XdKCD7CPynVvnQw",
+        "title": "DRAGON BALL: Sparking! ZERO Announcement Trailer",
+        "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Learn and master an incredible roster of playable characters, each with signature abilities, transformations, and techniques. Take the fight to arenas that crumble and react to your power as the battle rages on.\n\nShake the earth. Break the heavens. Make yours the destructive power of the strongest fighters ever to appear in DRAGON BALL! Wishlist NOW! https://bnent.eu/DBSparkingZero\n\n#DRAGONBALL #DBSZ #SparkingZERO\n\nFollow Bandai Namco Entertainment: \nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitter: https://twitter.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bSCANspTDeE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bSCANspTDeE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bSCANspTDeE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bSCANspTDeE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bSCANspTDeE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bandai Namco Entertainment America",
+        "tags": [
+          "Bandai Namco",
+          "Bandai Namco Entertainment",
+          "Video",
+          "Games",
+          "video games",
+          "namco bandai",
+          "United States",
+          "PS5",
+          "PS4",
+          "Xbox Series X"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "DRAGON BALL: Sparking! ZERO Announcement Trailer",
+          "description": "DRAGON BALL: Sparking! ZERO takes the legendary gameplay of the Budokai Tenkaichi series and raises it to whole new levels. Learn and master an incredible roster of playable characters, each with signature abilities, transformations, and techniques. Take the fight to arenas that crumble and react to your power as the battle rages on.\n\nShake the earth. Break the heavens. Make yours the destructive power of the strongest fighters ever to appear in DRAGON BALL! Wishlist NOW! https://bnent.eu/DBSparkingZero\n\n#DRAGONBALL #DBSZ #SparkingZERO\n\nFollow Bandai Namco Entertainment: \nInstagram: https://www.instagram.com/bandainamcous\nFacebook: https://www.facebook.com/BandaiNamcoUS\nTwitter: https://twitter.com/BandaiNamcoUS\nTwitch: http://www.twitch.tv/bandainamcous"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QBxtbbMuIyN4tZGaLmwWFXvXGAo",
+      "id": "1PpIwZNlBAE",
+      "snippet": {
+        "publishedAt": "2023-12-07T04:57:17Z",
+        "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
+        "title": "Watch full: NewsNation hosts fourth GOP primary debate | NewsNation GOP Debate",
+        "description": "Republican presidential hopefuls Chris Christie, Ron DeSantis, Nikki Haley and Vivek Ramaswamy took to the stage for a pivotal debate on NewsNation.\n\n#GOPDebate #Alabama #2024election \n\nRepublican presidential hopefuls Chris Christie, Ron DeSantis, Nikki Haley, and Vivek Ramaswamy take the stage in Tuscaloosa, Alabama, for a pivotal debate on NewsNation, moderated by Elizabeth Vargas, Megyn Kelly, and Eliana Johnson. \n \nFor analysis, highlights and to watch the full debate, visit https://www.newsnationnow.com/\n\nNewsNation is your source for fact-based, unbiased news for all America. \n\nMore from NewsNation: https://www.newsnationnow.com/\nGet our app: https://trib.al/TBXgYpp\nFind us on cable: https://trib.al/YDOpGyG\nHow to watch on TV or streaming: https://trib.al/Vu0Ikij",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1PpIwZNlBAE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1PpIwZNlBAE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1PpIwZNlBAE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1PpIwZNlBAE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1PpIwZNlBAE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewsNation",
+        "tags": [
+          "WatchNewsNation",
+          "gop debate",
+          "chris christie",
+          "vivek ramaswamy",
+          "republican debate",
+          "nikki haley",
+          "ron desantis",
+          "full debate",
+          "full GOP debate",
+          "full Chris Christie",
+          "full Vivek",
+          "full newsnation debate",
+          "republican party",
+          "2024 election",
+          "republican presidential debate",
+          "presidential debate",
+          "presidential debate tonight full",
+          "presidential debate 2023 full coverage",
+          "presidential debate highlights us",
+          "presidential debate 12/6/23 live",
+          "Trump",
+          "full Nikki Haley",
+          "gop debate 12/6/23"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Watch full: NewsNation hosts fourth GOP primary debate | NewsNation GOP Debate",
+          "description": "Republican presidential hopefuls Chris Christie, Ron DeSantis, Nikki Haley and Vivek Ramaswamy took to the stage for a pivotal debate on NewsNation.\n\n#GOPDebate #Alabama #2024election \n\nRepublican presidential hopefuls Chris Christie, Ron DeSantis, Nikki Haley, and Vivek Ramaswamy take the stage in Tuscaloosa, Alabama, for a pivotal debate on NewsNation, moderated by Elizabeth Vargas, Megyn Kelly, and Eliana Johnson. \n \nFor analysis, highlights and to watch the full debate, visit https://www.newsnationnow.com/\n\nNewsNation is your source for fact-based, unbiased news for all America. \n\nMore from NewsNation: https://www.newsnationnow.com/\nGet our app: https://trib.al/TBXgYpp\nFind us on cable: https://trib.al/YDOpGyG\nHow to watch on TV or streaming: https://trib.al/Vu0Ikij"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xIYBJePwnT3fFpdZc3COWlGEzt8",
+      "id": "fOT0BUpITw8",
+      "snippet": {
+        "publishedAt": "2023-12-08T00:00:10Z",
+        "channelId": "UCzrM_068Odho89mTRrrxqbA",
+        "title": "BELLAKEO (Video Oficial) - Peso Pluma, Anitta",
+        "description": "BELLAKEO (Video Oficial) - Peso Pluma, Anitta\nDouble P Records\n\n➸ ESCUCHA / LISTEN: https://orcd.co/opry3r1\n\n\n➸Música \nInterpretación - Peso Pluma, Anitta\nComposición  - Hassan Emilio Kabande Laija, Mario Cáceres, Jorge Alberto Erazo, Juan Diego Medina, Angel Sandoval, Juan Daniel Arias, Omar Jose Pulido Vicari\nProducción -  Jorge Milliano, Mario Cáceres\n\n➸Video\nDirector: Willy Rodríguez\nCasa Productora: La Tara\n\n\n➸Letra\n\nSalió de su casa con la mente encendida\nHoy discutió con el otro, me la dejó servida\nYa llama de una para recogerla\nPlan B en la radio canta con sus nenas\nUnos shots de clase azul y vamos directo al club\npor qué ella solo quiere eh\n\n                 Coro\nToa’ la noche bellakeo, bellakeo, bellakeo, bellakeo, bellake ke ke ke ke ke keo bellakeo, bellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\nToa’ la noche bellakeo, bellakeo, bellakeo, bellakeo, bellake ke ke ke ke ke keo bellakeo, bellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\n\nQuedarme pegada en la pared, \nDJ subele al perreo oh\nMe gusta que me den como es\nToa’ la noche Bellakeo\nTodo mundo quiere acercarse a mi\nPero yo no quiero a nadie\nEs que cuando tu lo mueves así\nEl ambiente se pone peligroso\nPa’ hacer fresquerias\nPapi tu tas duro, ya tu lo sabías\nTu eres mucho más de lo que pedía\nQuien diria que esta noche pasaría \nY no requiere el aval de nadie\nElla dice eh eh eh\n \n\nCoro\nToa’ la noche bellakeo, bellakeo, bellakeo\nBellakeo, bellake ke ke ke ke ke keo bellakeo\nBellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\nToa’ la noche bellakeo, bellakeo, bellakeo\nBellakeo, bellake ke ke ke ke ke keo bellakeo\nBellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\n\nDale bebé hasta abajo\nY que el piso se desarme\ncamina con las Yeezy\nRepartiendo los cristales \nDomina toa’ la clase\nPero cuando está conmigo \nSe derrite y se deshace \nNenita báilele, desaparezcame\nCorremaninos explotando como un tnt\nTu bellakeandome, yo bella Leandro al 100\nMamita sin mucho pensarlo me voy con usted\nNenita báilele, desaparezcame\nCorremaninos explotando como un tnt\nTu bellakeandome, yo bella Leandro al 100\nMamita sin mucho pensarlo me voy con usted\n\n\nQuedarme pegada en la pared \nDJ subele al perreo oh\nMe gusta que me den como es eh.\n\nCoro\nToa’ la noche bellakeo, bellakeo, bellakeo\nBellakeo, bellake ke ke ke ke ke keo bellakeo\nBellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\n\n\nAnitta anitta ahh peso peso pluma \nPura doble P\n\n\n\nPeso Pluma \n\n⋟Instagram -  https://bit.ly/3KxRYMd\n⋟Spotify - http://bit.ly/435v7ii\n⋟TikTok - http://bit.ly/3ZBp3LC\n⋟Apple Music - http://bit.ly/411a92p",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/fOT0BUpITw8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/fOT0BUpITw8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/fOT0BUpITw8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/fOT0BUpITw8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/fOT0BUpITw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Peso Pluma",
+        "tags": [
+          "Peso Pluma",
+          "DobleP",
+          "Doble P",
+          "DoubleP",
+          "Double P",
+          "PP",
+          "Puro doble P",
+          "corridos",
+          "corridos bélicos",
+          "belicoso",
+          "bellakeo",
+          "bellaqueo",
+          "bellaco",
+          "bellaca",
+          "Anitta",
+          "regueton",
+          "reggaeton",
+          "perreo",
+          "twerk",
+          "Brazil",
+          "Brasil",
+          "Mexico",
+          "musica mexicana",
+          "música mexicana"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "es",
+        "localized": {
+          "title": "BELLAKEO (Video Oficial) - Peso Pluma, Anitta",
+          "description": "BELLAKEO (Video Oficial) - Peso Pluma, Anitta\nDouble P Records\n\n➸ ESCUCHA / LISTEN: https://orcd.co/opry3r1\n\n\n➸Música \nInterpretación - Peso Pluma, Anitta\nComposición  - Hassan Emilio Kabande Laija, Mario Cáceres, Jorge Alberto Erazo, Juan Diego Medina, Angel Sandoval, Juan Daniel Arias, Omar Jose Pulido Vicari\nProducción -  Jorge Milliano, Mario Cáceres\n\n➸Video\nDirector: Willy Rodríguez\nCasa Productora: La Tara\n\n\n➸Letra\n\nSalió de su casa con la mente encendida\nHoy discutió con el otro, me la dejó servida\nYa llama de una para recogerla\nPlan B en la radio canta con sus nenas\nUnos shots de clase azul y vamos directo al club\npor qué ella solo quiere eh\n\n                 Coro\nToa’ la noche bellakeo, bellakeo, bellakeo, bellakeo, bellake ke ke ke ke ke keo bellakeo, bellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\nToa’ la noche bellakeo, bellakeo, bellakeo, bellakeo, bellake ke ke ke ke ke keo bellakeo, bellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\n\nQuedarme pegada en la pared, \nDJ subele al perreo oh\nMe gusta que me den como es\nToa’ la noche Bellakeo\nTodo mundo quiere acercarse a mi\nPero yo no quiero a nadie\nEs que cuando tu lo mueves así\nEl ambiente se pone peligroso\nPa’ hacer fresquerias\nPapi tu tas duro, ya tu lo sabías\nTu eres mucho más de lo que pedía\nQuien diria que esta noche pasaría \nY no requiere el aval de nadie\nElla dice eh eh eh\n \n\nCoro\nToa’ la noche bellakeo, bellakeo, bellakeo\nBellakeo, bellake ke ke ke ke ke keo bellakeo\nBellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\nToa’ la noche bellakeo, bellakeo, bellakeo\nBellakeo, bellake ke ke ke ke ke keo bellakeo\nBellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\n\nDale bebé hasta abajo\nY que el piso se desarme\ncamina con las Yeezy\nRepartiendo los cristales \nDomina toa’ la clase\nPero cuando está conmigo \nSe derrite y se deshace \nNenita báilele, desaparezcame\nCorremaninos explotando como un tnt\nTu bellakeandome, yo bella Leandro al 100\nMamita sin mucho pensarlo me voy con usted\nNenita báilele, desaparezcame\nCorremaninos explotando como un tnt\nTu bellakeandome, yo bella Leandro al 100\nMamita sin mucho pensarlo me voy con usted\n\n\nQuedarme pegada en la pared \nDJ subele al perreo oh\nMe gusta que me den como es eh.\n\nCoro\nToa’ la noche bellakeo, bellakeo, bellakeo\nBellakeo, bellake ke ke ke ke ke keo bellakeo\nBellakeo, bellakeo, bellakeo\nBellake ke ke ke keo.\n\n\n\nAnitta anitta ahh peso peso pluma \nPura doble P\n\n\n\nPeso Pluma \n\n⋟Instagram -  https://bit.ly/3KxRYMd\n⋟Spotify - http://bit.ly/435v7ii\n⋟TikTok - http://bit.ly/3ZBp3LC\n⋟Apple Music - http://bit.ly/411a92p"
+        },
+        "defaultAudioLanguage": "es"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yVH8Rx_bqh5gDqeqzDWyEmqtmfo",
+      "id": "zyoBA0aCRNk",
+      "snippet": {
+        "publishedAt": "2023-12-08T04:33:42Z",
+        "channelId": "UCVS0xBpOtXBAl12rdG67-OQ",
+        "title": "Monster Hunter Wilds - Official Reveal Trailer",
+        "description": "Monster Hunter Wilds. The next generation in the genre defining series. \n \nLaunching in 2025 on PS5, Xbox Series X|S, and PC/Steam. \n \n#MHWilds\n\nhttps://discord.gg/capcom\nhttps://www.facebook.com/monsterhunter\nhttps://twitter.com/monsterhunter\nhttps://www.instagram.com/monsterhuntergame/\nhttps://www.youtube.com/monsterhunter\n\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zyoBA0aCRNk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zyoBA0aCRNk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zyoBA0aCRNk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zyoBA0aCRNk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zyoBA0aCRNk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Monster Hunter",
+        "tags": [
+          "monster hunter",
+          "mh",
+          "action",
+          "rpg",
+          "hunting",
+          "multiplayer",
+          "capcom",
+          "#MHWilds",
+          "#MonsterHunter"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Monster Hunter Wilds - Official Reveal Trailer",
+          "description": "Monster Hunter Wilds. The next generation in the genre defining series. \n \nLaunching in 2025 on PS5, Xbox Series X|S, and PC/Steam. \n \n#MHWilds\n\nhttps://discord.gg/capcom\nhttps://www.facebook.com/monsterhunter\nhttps://twitter.com/monsterhunter\nhttps://www.instagram.com/monsterhuntergame/\nhttps://www.youtube.com/monsterhunter\n\n\n©CAPCOM CO., LTD. ALL RIGHTS RESERVED."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZbDRKSJ08Mad-bPVo99MusuDhzg",
+      "id": "dgSCCazRPVA",
+      "snippet": {
+        "publishedAt": "2023-12-08T05:03:02Z",
+        "channelId": "UCTTcTeAszDGxALRSMkJH9FQ",
+        "title": "Beep Beep",
+        "description": "Provided to YouTube by Universal Music Group\n\nBeep Beep · Nicki Minaj\n\nPink Friday 2\n\n℗ 2023 Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2023-12-08\n\nProducer, Associated  Performer, Programming: Murda Beatz\nProducer, Associated  Performer, Programming: OJ Finessey\nStudio  Personnel, Mixer: Serban Ghenea\nStudio  Personnel, Assistant  Mixer: Bryce Bordone\nImmersive  Mix  Engineer, Studio  Personnel, Recording  Engineer: Aubry \"Big Juice\" Delaine\nAssociated  Performer, Vocals: Nicki Minaj\nA& R: Joshua Berkman\nA& R: Wendy Goldstein\nA& R: Bryan Montesano\nStudio  Personnel, Mastering  Engineer: Chris Athens\nComposer  Lyricist: Onika Maraj\nComposer  Lyricist: Shane Lindstrom\nComposer  Lyricist: Gavin Valencia\n\nAuto-generated by YouTube.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dgSCCazRPVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dgSCCazRPVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dgSCCazRPVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dgSCCazRPVA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dgSCCazRPVA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nicki Minaj - Topic",
+        "tags": [
+          "Nicki Minaj",
+          "ニッキーミナージュ",
+          "ニッキー・ミナージュ",
+          "Pink Friday 2",
+          "Beep Beep"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Beep Beep",
+          "description": "Provided to YouTube by Universal Music Group\n\nBeep Beep · Nicki Minaj\n\nPink Friday 2\n\n℗ 2023 Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2023-12-08\n\nProducer, Associated  Performer, Programming: Murda Beatz\nProducer, Associated  Performer, Programming: OJ Finessey\nStudio  Personnel, Mixer: Serban Ghenea\nStudio  Personnel, Assistant  Mixer: Bryce Bordone\nImmersive  Mix  Engineer, Studio  Personnel, Recording  Engineer: Aubry \"Big Juice\" Delaine\nAssociated  Performer, Vocals: Nicki Minaj\nA& R: Joshua Berkman\nA& R: Wendy Goldstein\nA& R: Bryan Montesano\nStudio  Personnel, Mastering  Engineer: Chris Athens\nComposer  Lyricist: Onika Maraj\nComposer  Lyricist: Shane Lindstrom\nComposer  Lyricist: Gavin Valencia\n\nAuto-generated by YouTube."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-TJ2bxuI8foO-14y2ObXd72ocW8",
+      "id": "zEMCRFnAUUM",
+      "snippet": {
+        "publishedAt": "2023-12-07T20:47:54Z",
+        "channelId": "UCwVg9btOceLQuNCdoQk9CXg",
+        "title": "I BUILT A $100,000 DREAM DOG HOTEL!!",
+        "description": "I built my dog a $100,000 dream dog hotel for his family reunion! It had things like a waterpark, a gym, and so much more...\n\nSubscribe below! \nSTAY WILD @StayWildVlogs \nCAM HUFF @CamHuff \nDEREK DAYS @DerekDays \n\nGET THE MERCH! https://staywildshop.com \n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zEMCRFnAUUM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zEMCRFnAUUM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zEMCRFnAUUM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zEMCRFnAUUM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zEMCRFnAUUM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ben Azelart",
+        "tags": [
+          "ben azelart",
+          "brent rivera",
+          "Lexi rivera",
+          "stokes twins",
+          "ben Azelart girlfriend",
+          "Lexi rivera boyfriend",
+          "mylifeaseva",
+          "lexi hensler",
+          "Andrew davila",
+          "pierson",
+          "Pierson wodzynski",
+          "Jeremy hutchins",
+          "dom brack",
+          "Brent and pierson",
+          "Airrack",
+          "mrbeast",
+          "preston",
+          "unspeakable",
+          "Mathew beem",
+          "Ryan trahan",
+          "dog hotel",
+          "dream dog house",
+          "dog house",
+          "jordan matter",
+          "salish"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "I BUILT A $100,000 DREAM DOG HOTEL!!",
+          "description": "I built my dog a $100,000 dream dog hotel for his family reunion! It had things like a waterpark, a gym, and so much more...\n\nSubscribe below! \nSTAY WILD @StayWildVlogs \nCAM HUFF @CamHuff \nDEREK DAYS @DerekDays \n\nGET THE MERCH! https://staywildshop.com \n\n☆ FOLLOW ME!\nINSTAGRAM: @BenAzelart https://www.instagram.com/benazelart/\nYOUTUBE: Ben Azelart https://www.youtube.com/benazelart/\nSNAPCHAT: @BenAzelart"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8qgUCZ286pjN_GWCV0viz_2gpi4",
+      "id": "C2IJGRLD6Iw",
+      "snippet": {
+        "publishedAt": "2023-12-08T13:00:12Z",
+        "channelId": "UCiS882YPwZt1NfaM0gR0D9Q",
+        "title": "Version 4.3 Special Program｜Genshin Impact",
+        "description": "Dear Travelers,\nThis special program will feature juicy details about new game content and developments in Version 4.3. It will also \"drop\" some redemption codes and other goodies!\nSpecial thanks to Travelers for your support and company. We will bring you more updates and information as they become available~\nTravelers, we'll see you there!\n(The redemption codes from this special program will expire on December 8th, 23:00 (UTC-5), so be quick and redeem them~)\n\nDownload FREE: https://hoyo.link/d0vPBBAd\n\n#GenshinImpact #HoYoverse\n\n↓ Follow us for the latest news ↓\nHoYoLAB: https://hoyo.link/34115CA6\nOfficial Website: https://hoyo.link/b7SCBOAd\nOfficial Community: https://hoyo.link/52uYBBAd\nFacebook: https://hoyo.link/77SCB0Ad\nTwitter: https://hoyo.link/7bSCBxAd\nTwitch: https://hoyo.link/4bSCBFAd\nInstagram: https://hoyo.link/a6SCBEAd\nReddit: https://hoyo.link/c1SCBIAd",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C2IJGRLD6Iw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C2IJGRLD6Iw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C2IJGRLD6Iw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C2IJGRLD6Iw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C2IJGRLD6Iw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Genshin Impact",
+        "tags": [
+          "Amber",
+          "amber vtuber",
+          "genshi",
+          "genshi game",
+          "genshi impact",
+          "genshi video",
+          "genshin",
+          "genshin game",
+          "genshin impact",
+          "genshin impact 2020",
+          "genshin impact game",
+          "genshin impact good",
+          "genshin impact graphics",
+          "genshin impact introduction",
+          "genshin impact manga",
+          "genshin impact wiki",
+          "geshin",
+          "geshin game",
+          "Teyvat",
+          "yuanshen game",
+          "miHoYo China",
+          "miHoYo Japan",
+          "adventure story",
+          "open world game",
+          "anime style",
+          "MMORPG",
+          "anime games",
+          "mobile game",
+          "MMO PlayStation",
+          "yt:cc=on"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Version 4.3 Special Program｜Genshin Impact",
+          "description": "Dear Travelers,\nThis special program will feature juicy details about new game content and developments in Version 4.3. It will also \"drop\" some redemption codes and other goodies!\nSpecial thanks to Travelers for your support and company. We will bring you more updates and information as they become available~\nTravelers, we'll see you there!\n(The redemption codes from this special program will expire on December 8th, 23:00 (UTC-5), so be quick and redeem them~)\n\nDownload FREE: https://hoyo.link/d0vPBBAd\n\n#GenshinImpact #HoYoverse\n\n↓ Follow us for the latest news ↓\nHoYoLAB: https://hoyo.link/34115CA6\nOfficial Website: https://hoyo.link/b7SCBOAd\nOfficial Community: https://hoyo.link/52uYBBAd\nFacebook: https://hoyo.link/77SCB0Ad\nTwitter: https://hoyo.link/7bSCBxAd\nTwitch: https://hoyo.link/4bSCBFAd\nInstagram: https://hoyo.link/a6SCBEAd\nReddit: https://hoyo.link/c1SCBIAd"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NT_WepNyBL43WYFV65iCW9HiJuw",
+      "id": "g8cqWwIwXsc",
+      "snippet": {
+        "publishedAt": "2023-12-08T17:38:05Z",
+        "channelId": "UCHsRtomD4twRf5WVHHk-cMw",
+        "title": "Sabertooth vs Raptor: Who Would Win?",
+        "description": "This is the first of a new series I'm calling \"The Anachro-Lab\", an animated series depicting fights between species who normally were separated by millions of years. This pilot episode took two years to produce! The next episode is already underway and will hopefully take a bit less time to create. \n\nCredits:\n\nWriting, editing, production, directing: Patrick Lacey\n\n3D Animation: WobblyWorks\n\n3D Modeling: Kuzim\n\nStoryboarding: Trinity\n\nSound designer & foley: Manni Simon\n\nSound effects editor: Dony Bullen\n\nMusic:\n\nLoop Hero - Entropic Rhapsody by blinch: https://youtu.be/43mlgU-HCRk?si=ELUe2je1p_dIEXJC\n\nEyewitness theme remix by fishstix (Original theme by Guy Michaelmore): https://youtu.be/x7JN4hbQtNQ?si=U2RostcF2t_Ktkdm",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g8cqWwIwXsc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g8cqWwIwXsc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g8cqWwIwXsc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g8cqWwIwXsc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g8cqWwIwXsc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TierZoo",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Sabertooth vs Raptor: Who Would Win?",
+          "description": "This is the first of a new series I'm calling \"The Anachro-Lab\", an animated series depicting fights between species who normally were separated by millions of years. This pilot episode took two years to produce! The next episode is already underway and will hopefully take a bit less time to create. \n\nCredits:\n\nWriting, editing, production, directing: Patrick Lacey\n\n3D Animation: WobblyWorks\n\n3D Modeling: Kuzim\n\nStoryboarding: Trinity\n\nSound designer & foley: Manni Simon\n\nSound effects editor: Dony Bullen\n\nMusic:\n\nLoop Hero - Entropic Rhapsody by blinch: https://youtu.be/43mlgU-HCRk?si=ELUe2je1p_dIEXJC\n\nEyewitness theme remix by fishstix (Original theme by Guy Michaelmore): https://youtu.be/x7JN4hbQtNQ?si=U2RostcF2t_Ktkdm"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ejsk7Z2LzBaVQC79zH0vS54Cjz4",
+      "id": "NGAW-DGkXuM",
+      "snippet": {
+        "publishedAt": "2023-12-08T05:08:08Z",
+        "channelId": "UC-yW8iz7ICKv_bhuxLtcJaw",
+        "title": "Tate McRae - run for the hills",
+        "description": "THINK LATER, Tate McRae’s new album, is out now! Listen here: https://tatemcrae.lnk.to/THINKLATER  \n \nShop THINK LATER merchandise, CDs, and more: https://tatemcrae.lnk.to/Store \nThe THINK LATER Tour is coming to a city near you. Find tickets here: https://tatemcrae.com   \n \nFollow Tate: \nInstagram: https://www.instagram.com/tatemcrae/    \nX: https://twitter.com/tatemcrae     \nTikTok: https://www.tiktok.com/@tatemcrae    \nFacebook: https://www.facebook.com/TateMcRaeOfficial/ \nWebsite: https://www.tatemcrae.com/   \nSpotify: https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym?si=NGxzr1LmRH6jDnTW__MNIQ    \n\nLyrics:\nHotels\nLate nights\nHands through my hair\nLong talks\nRed eyes\nClothes everywhere\nMissing a moment when you’re still there\nYou gotta thing you can’t find nowhere \n\nYeah-yeah\nKissing\nScreaming\nStraight back to war\nI’m walking out until I lock the door\nMaybe the danger’s covered by the thrill\nCause I know I should be running for the hills \n\nThe way you touch me\nStraight to the heart yeah\nIt cuts me\nCause I know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up\nDon’t tease me\nAnd keep me around like it’s easy\nCause you know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up \n\nI know that when it’s all done\nI’ll hate you bad in the long run\nBut somehow it never ends\nMy heels on the edge of your bed again, yeah\nI get obsessive with you\nAll that I want is attention from you\nBreak into my life and break all my rules, it’s true \n\nThe way you touch me\nStraight to the heart yeah\nIt cuts me\nCause I know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up\nDon’t tease me \nAnd keep me around like it’s easy  \n\nCause you know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up \n\nShould be running for the hills, should run for the hills, should be running for the hills\nThe way you touch me\nShould run for the hills, should run for the hills, should be running for the hills\nThe way you touch me\nShould run, run, run for the hills, should be running for the hills\nThe way you touch me\nShould run, run, run for the hills, should be running for the hills\nThe way you touch me\nHuh huh \n \nCredits: \nDirector - Aerin Moreno  \nCreative Director / Concept by - Bradley J. Calder\nProduction Company - freenjoy\nExecutive Producer - Nathan Scherrer\nExecutive Procucer - Tara Sheree\nHead of Production - Ben Piety\nProducer - Aiden Magarian\nProduction Manager - Ivan Zigas\nProduction Coordinator - Taylor Gerber\n1st AD - Mariano Andre\n2nd AD - Hollis Sherman-Pope  \nDirector of Photography - Cory Burmester\n1st AC - Bradley Wilder\n2nd AC - Seth Peschansky\nLoader - Chastin Noblett\nVTR - Evan Johnson\nSteadicam - Chris Loh\nPlayback - Ignacio Martinez\nCLT - Dimitri Christoforidis\nACLT - Louis Weissman\nLCP - Tyler Sanderson\nSLT - Jeff Osborne\nSLT - Isaac Han\nSLT - Paul Kane\nSLT - Jeff Godshall\nKey Grip - Brendan Riel\nBest Boy Grip - Connor Colby\nGrip - Logan Alesso\nGrip - Dennis Pires\nGrip - Carlos Boiles\nGrip - Matt King\nGrip - Chris Wieland\nHyphenate - Erik Covarrubias\nProduction Designer - Wesley Goodrich\nLead Man - Jacob Pillot\nLead Assist - Manuel Mancilla\nSet Dresser - Andrew Bond  \nSet Dresser - Collin Lebrasseur\nSet Dresser - Hank Kulesa\nScenic Painter - Sydney Cavanaugh-Pellow\nScenic Assistant - Max King\nCarpenter - Noble Liams\nArt PA - Delon Isaacs\nArt PA - Nick Pillot\nMovement Coach - Toogie\nWardrobe Stylist - Joanie Del Santo\nWardrobe Assist - Emily Cancelosi\nWardrobe Assist - Natalie Smithson\n#1 Makeup Artist - Lilly Keys\n#1 Hair Stylist - Chad Wood\nNails - Sarah Chue\nCraft Services - Yessica Paloma Aguirre\nCraft Services - Sylvia Martinez\nMedic - Michael Smith\nCatering - Del Mar Catering\nGang Boss - Terrance Martin\nDOT Coordinator - Lynne Kreis\nAD PA - Destiny Quinn\nOffice PA - Anne-Sophie Bine\nTruck PA - Brandon Lange\nSet PA - Sage Barrier\nSet PA - Aspen Miller\nSet PA - Rogelio Monroy\nSet PA - Johnny Merino\nEditor - Aerin Moreno\nColorist - Matt Osborne @ CO3  \nPhotography - Beth Saravo\nCommissioner/Producer - Sam Houston\nMGMT - Jeffrey Azoff\nMGMT - Tommy Bruce\nMGMT - Tom Skoglund\nMGMT - Sali Kharazi\nMGMT - Ali Saunders\nMarketing - Sam Jacobson\nLabel - RCA Records\nSVP, RCA Marketing – Val Pensa\nRCA Marketing – Molly Yorkes\nDigital Marketing – Monica Seetharam\nDigital Marketing – Alexis Gorlick\n  \n#THINKLATER #TateMcRae #runforthehills",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NGAW-DGkXuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NGAW-DGkXuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NGAW-DGkXuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NGAW-DGkXuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NGAW-DGkXuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "TateMcRaeVEVO",
+        "tags": [
+          "Tate mcrae",
+          "tate mcrae think later",
+          "think later the album",
+          "tate mcrae greedy",
+          "tate mcrae exes",
+          "would want myself",
+          "tate mcray",
+          "kisses to my exes",
+          "new tate mcrae",
+          "tate mcrae 2023",
+          "new tate mcrae music video",
+          "she’s all wanna be tate mcrae",
+          "you broke me first tate mcrae",
+          "gracie abrams",
+          "olivia rodrigo",
+          "renee rapp",
+          "think later world tour",
+          "are we flying tour tate mcrae",
+          "tate mcrae shorts",
+          "greedy sped up",
+          "run for the hills THINK LATER",
+          "the",
+          "way"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Tate McRae - run for the hills",
+          "description": "THINK LATER, Tate McRae’s new album, is out now! Listen here: https://tatemcrae.lnk.to/THINKLATER  \n \nShop THINK LATER merchandise, CDs, and more: https://tatemcrae.lnk.to/Store \nThe THINK LATER Tour is coming to a city near you. Find tickets here: https://tatemcrae.com   \n \nFollow Tate: \nInstagram: https://www.instagram.com/tatemcrae/    \nX: https://twitter.com/tatemcrae     \nTikTok: https://www.tiktok.com/@tatemcrae    \nFacebook: https://www.facebook.com/TateMcRaeOfficial/ \nWebsite: https://www.tatemcrae.com/   \nSpotify: https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym?si=NGxzr1LmRH6jDnTW__MNIQ    \n\nLyrics:\nHotels\nLate nights\nHands through my hair\nLong talks\nRed eyes\nClothes everywhere\nMissing a moment when you’re still there\nYou gotta thing you can’t find nowhere \n\nYeah-yeah\nKissing\nScreaming\nStraight back to war\nI’m walking out until I lock the door\nMaybe the danger’s covered by the thrill\nCause I know I should be running for the hills \n\nThe way you touch me\nStraight to the heart yeah\nIt cuts me\nCause I know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up\nDon’t tease me\nAnd keep me around like it’s easy\nCause you know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up \n\nI know that when it’s all done\nI’ll hate you bad in the long run\nBut somehow it never ends\nMy heels on the edge of your bed again, yeah\nI get obsessive with you\nAll that I want is attention from you\nBreak into my life and break all my rules, it’s true \n\nThe way you touch me\nStraight to the heart yeah\nIt cuts me\nCause I know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up\nDon’t tease me \nAnd keep me around like it’s easy  \n\nCause you know deep down that it’s\nNever gonna ever be us, ohhh\nNever gonna ever be more than just something that’s fucking me up \n\nShould be running for the hills, should run for the hills, should be running for the hills\nThe way you touch me\nShould run for the hills, should run for the hills, should be running for the hills\nThe way you touch me\nShould run, run, run for the hills, should be running for the hills\nThe way you touch me\nShould run, run, run for the hills, should be running for the hills\nThe way you touch me\nHuh huh \n \nCredits: \nDirector - Aerin Moreno  \nCreative Director / Concept by - Bradley J. Calder\nProduction Company - freenjoy\nExecutive Producer - Nathan Scherrer\nExecutive Procucer - Tara Sheree\nHead of Production - Ben Piety\nProducer - Aiden Magarian\nProduction Manager - Ivan Zigas\nProduction Coordinator - Taylor Gerber\n1st AD - Mariano Andre\n2nd AD - Hollis Sherman-Pope  \nDirector of Photography - Cory Burmester\n1st AC - Bradley Wilder\n2nd AC - Seth Peschansky\nLoader - Chastin Noblett\nVTR - Evan Johnson\nSteadicam - Chris Loh\nPlayback - Ignacio Martinez\nCLT - Dimitri Christoforidis\nACLT - Louis Weissman\nLCP - Tyler Sanderson\nSLT - Jeff Osborne\nSLT - Isaac Han\nSLT - Paul Kane\nSLT - Jeff Godshall\nKey Grip - Brendan Riel\nBest Boy Grip - Connor Colby\nGrip - Logan Alesso\nGrip - Dennis Pires\nGrip - Carlos Boiles\nGrip - Matt King\nGrip - Chris Wieland\nHyphenate - Erik Covarrubias\nProduction Designer - Wesley Goodrich\nLead Man - Jacob Pillot\nLead Assist - Manuel Mancilla\nSet Dresser - Andrew Bond  \nSet Dresser - Collin Lebrasseur\nSet Dresser - Hank Kulesa\nScenic Painter - Sydney Cavanaugh-Pellow\nScenic Assistant - Max King\nCarpenter - Noble Liams\nArt PA - Delon Isaacs\nArt PA - Nick Pillot\nMovement Coach - Toogie\nWardrobe Stylist - Joanie Del Santo\nWardrobe Assist - Emily Cancelosi\nWardrobe Assist - Natalie Smithson\n#1 Makeup Artist - Lilly Keys\n#1 Hair Stylist - Chad Wood\nNails - Sarah Chue\nCraft Services - Yessica Paloma Aguirre\nCraft Services - Sylvia Martinez\nMedic - Michael Smith\nCatering - Del Mar Catering\nGang Boss - Terrance Martin\nDOT Coordinator - Lynne Kreis\nAD PA - Destiny Quinn\nOffice PA - Anne-Sophie Bine\nTruck PA - Brandon Lange\nSet PA - Sage Barrier\nSet PA - Aspen Miller\nSet PA - Rogelio Monroy\nSet PA - Johnny Merino\nEditor - Aerin Moreno\nColorist - Matt Osborne @ CO3  \nPhotography - Beth Saravo\nCommissioner/Producer - Sam Houston\nMGMT - Jeffrey Azoff\nMGMT - Tommy Bruce\nMGMT - Tom Skoglund\nMGMT - Sali Kharazi\nMGMT - Ali Saunders\nMarketing - Sam Jacobson\nLabel - RCA Records\nSVP, RCA Marketing – Val Pensa\nRCA Marketing – Molly Yorkes\nDigital Marketing – Monica Seetharam\nDigital Marketing – Alexis Gorlick\n  \n#THINKLATER #TateMcRae #runforthehills"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ldnXHly49xTk2hy1SOgnh2myv48",
+      "id": "EIilZl_iuIo",
+      "snippet": {
+        "publishedAt": "2023-12-08T10:00:08Z",
+        "channelId": "UC12HMtO5MYph9dCZZ7yygng",
+        "title": "XG - WINTER WITHOUT YOU (Official Music Video)",
+        "description": "XG\nNew Single\n‘WINTER WITHOUT YOU’ \n2023.12.08 FRI\n\nOfficial Music Video\nhttps://youtu.be/S-BP3xLViUw\n\nStreaming/Download\nhttps://XG.lnk.to/WINTERWITHOUTYOU\n\n-------\n\nFollow XG:\nInstagram: https://instagram.com/xgofficial\nYouTube: https://www.youtube.com/@xg_official\nTikTok: https://www.tiktok.com/@xg.official\nTwitter: https://twitter.com/XGOfficial_\nFacebook: https://www.facebook.com/XGOfficial\nOfficial Website: https://xgalx.com/xg/\nWeverse: https://www.weverse.io/xg/artist\nWeibo: https://weibo.com/u/7745703614\nXG OFFICIAL FANCLUB \"\"ALPHAZ”: http://bit.ly/3ykLo4V\n\n-------\n\n#XG #WINTERWITHOUTYOU #XG_WINTERWITHOUTYOU",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EIilZl_iuIo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EIilZl_iuIo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EIilZl_iuIo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EIilZl_iuIo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EIilZl_iuIo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "XG",
+        "tags": [
+          "XG",
+          "XGALX",
+          "GRL GVNG",
+          "SHOOTING STAR",
+          "LEFT RIGHT",
+          "MASCARA",
+          "Tippy Toes",
+          "JURIN",
+          "JURIA",
+          "MAYA",
+          "COCONA",
+          "CHISA",
+          "HARVEY",
+          "HINATA",
+          "ALPHAZ",
+          "NEW DNA",
+          "HESONOO",
+          "X-GENE",
+          "TGIF",
+          "NEW DANCE",
+          "PUPPET SHOW",
+          "WINTER WITHOUT YOU"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "XG - WINTER WITHOUT YOU (Official Music Video)",
+          "description": "XG\nNew Single\n‘WINTER WITHOUT YOU’ \n2023.12.08 FRI\n\nOfficial Music Video\nhttps://youtu.be/S-BP3xLViUw\n\nStreaming/Download\nhttps://XG.lnk.to/WINTERWITHOUTYOU\n\n-------\n\nFollow XG:\nInstagram: https://instagram.com/xgofficial\nYouTube: https://www.youtube.com/@xg_official\nTikTok: https://www.tiktok.com/@xg.official\nTwitter: https://twitter.com/XGOfficial_\nFacebook: https://www.facebook.com/XGOfficial\nOfficial Website: https://xgalx.com/xg/\nWeverse: https://www.weverse.io/xg/artist\nWeibo: https://weibo.com/u/7745703614\nXG OFFICIAL FANCLUB \"\"ALPHAZ”: http://bit.ly/3ykLo4V\n\n-------\n\n#XG #WINTERWITHOUTYOU #XG_WINTERWITHOUTYOU"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7ZpYxYxuV00XfD21IBFVELd-5E0",
+      "id": "QdBZY2fkU-0",
+      "snippet": {
+        "publishedAt": "2023-12-04T23:07:10Z",
+        "channelId": "UC6VcWc1rAoWdBCM0JxrRQ3A",
+        "title": "Grand Theft Auto VI Trailer 1",
+        "description": "Song: Love Is A Long Road\nArtist: Tom Petty\nWritten by Thomas Earl Petty and Michael W. Campbell\nPublished by Universal Music Works on behalf of Wild Gator Music (GMR) and Wixen Music Publishing, Inc. as agent for Gone Gator Music (ASCAP) and NotoriousJBPSongs (ASCAP)\nCourtesy of Universal Music Enterprises, a Division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QdBZY2fkU-0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rockstar Games",
+        "tags": [
+          "Rockstar Games",
+          "Grand Theft Auto VI",
+          "GTAVI",
+          "GTA 6",
+          "GTA Six",
+          "Grand Theft Auto",
+          "GTA",
+          "Vice City",
+          "Leonida"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Grand Theft Auto VI Trailer 1",
+          "description": "Song: Love Is A Long Road\nArtist: Tom Petty\nWritten by Thomas Earl Petty and Michael W. Campbell\nPublished by Universal Music Works on behalf of Wild Gator Music (GMR) and Wixen Music Publishing, Inc. as agent for Gone Gator Music (ASCAP) and NotoriousJBPSongs (ASCAP)\nCourtesy of Universal Music Enterprises, a Division of UMG Recordings, Inc."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ue6DngnTH9DdNPjX2uKPOp-t0OI",
+      "id": "hyH7AT_Zh7Q",
+      "snippet": {
+        "publishedAt": "2023-12-08T05:00:07Z",
+        "channelId": "UCtylTUUVIGY_i5afsQYeBZA",
+        "title": "Jack Harlow & Dave - Stop Giving Me Advice (Directed by Cole Bennett)",
+        "description": "The Fourth Single from \"All is Yellow\" (A Lyrical Lemonade Album)\n\nJack Harlow & Dave - Stop Giving Me Advice (Official Video)\nhttps://lyricallemonade.lnk.to/StopGivingMeAdvice\n\nPre-Save All is Yellow: https://presave.umusic.com/lyrical-lemonade\n\nExecutive Producer + Director: Cole Bennett\nSong Produced by: Hollywood Cole, Daz, Rascal, Matthew Tavares & Angel Lopez\n\nExecutive Producer: Jake Millan\nHead of Production: Krista Worby\nDir. of Photography: Franklin Ricart\nEditor: Cole Bennett\nVFX: Max Colt and Scissor Films\n3D Intro + Outro: Reduciano and aid6n\n3D Vehicle Scenes: Kayo\n3D Environment Assistance: Tadiwa\nColorist: Vinny Garcia\nMatch Cut Animations: Goood Dylan\nMatch Cut Photos + Bts: Casper Masi\nCustom Font: Daniel Keogh\n\nLondon Production by Factory 32 Ltd. \nProducer: Kofi Jr. \nProducers: Lavinia Noel and Craig Capone\n\nSteadicam: Marcus Albertstein \n1st AC: Johnny Islei\n2nd AC: Felix Widley\nDIT: Nurul Chowdhury\nGaffer: Ollie Riches\nBBE: Peter Tomasikiewicz\nKey Grip: Emmet Cahill\nProcess Trailer: Andrew Morgan \n\nArt Director: Louis \n1st AD: Satish O’Shea\nProduction Assistant: Keryn Mae\nProduction Assistant: Vania Angel Kwame\nProduction Assistant: Nathan Kwame \nDriver.: Moutman\nDriver.: Ellis Nait-Aissa\nDriver: Lewis Martin\nSet Medic: Barbara Abakah\nAssistant to Director: Joe Rocha\n\n--\n\n\nOfficial Channel of Lyrical Lemonade \n\nSubscribe for updates on music videos, interviews, performance videos, etc.\n\nLyrical Lemonade's Spotify Playlist:\nhttps://open.spotify.com/user/gh3vdz775oy18ah1wp9ucxsj5/playlist/5UuPeWDR2I8a8pORvW9vmr\n\nLyrical Lemonade Socials:\n\nhttp://www.twitter.com/lyricalemonade\nhttp://www.instagram.com/lyricalemonade\nhttp://www.facebook.com/lyricalemonade\nhttp://www.lyricallemonade.com\n\n\nCole Bennett Socials:\n\nhttp://www.twitter.com/_colebennett_\nhttp://www.instagram.com/colebennett\n\nLENNY ~ a hidden character representing happiness & good energy\nhttp://instagram.com/lenny",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hyH7AT_Zh7Q/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hyH7AT_Zh7Q/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hyH7AT_Zh7Q/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/hyH7AT_Zh7Q/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/hyH7AT_Zh7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lyrical Lemonade",
+        "tags": [
+          "Jack Harlow",
+          "Santan Dave",
+          "Dave",
+          "Sprinter",
+          "Lovin On Me",
+          "Stop Giving Me Advice",
+          "SGMA",
+          "Lyrical Lemonade",
+          "All is Yellow",
+          "Cole Bennett",
+          "Album",
+          "Black and White",
+          "Yellow",
+          "Music Video",
+          "New",
+          "UK Rap",
+          "Uk",
+          "UK",
+          "America",
+          "Louisville"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jack Harlow & Dave - Stop Giving Me Advice (Directed by Cole Bennett)",
+          "description": "The Fourth Single from \"All is Yellow\" (A Lyrical Lemonade Album)\n\nJack Harlow & Dave - Stop Giving Me Advice (Official Video)\nhttps://lyricallemonade.lnk.to/StopGivingMeAdvice\n\nPre-Save All is Yellow: https://presave.umusic.com/lyrical-lemonade\n\nExecutive Producer + Director: Cole Bennett\nSong Produced by: Hollywood Cole, Daz, Rascal, Matthew Tavares & Angel Lopez\n\nExecutive Producer: Jake Millan\nHead of Production: Krista Worby\nDir. of Photography: Franklin Ricart\nEditor: Cole Bennett\nVFX: Max Colt and Scissor Films\n3D Intro + Outro: Reduciano and aid6n\n3D Vehicle Scenes: Kayo\n3D Environment Assistance: Tadiwa\nColorist: Vinny Garcia\nMatch Cut Animations: Goood Dylan\nMatch Cut Photos + Bts: Casper Masi\nCustom Font: Daniel Keogh\n\nLondon Production by Factory 32 Ltd. \nProducer: Kofi Jr. \nProducers: Lavinia Noel and Craig Capone\n\nSteadicam: Marcus Albertstein \n1st AC: Johnny Islei\n2nd AC: Felix Widley\nDIT: Nurul Chowdhury\nGaffer: Ollie Riches\nBBE: Peter Tomasikiewicz\nKey Grip: Emmet Cahill\nProcess Trailer: Andrew Morgan \n\nArt Director: Louis \n1st AD: Satish O’Shea\nProduction Assistant: Keryn Mae\nProduction Assistant: Vania Angel Kwame\nProduction Assistant: Nathan Kwame \nDriver.: Moutman\nDriver.: Ellis Nait-Aissa\nDriver: Lewis Martin\nSet Medic: Barbara Abakah\nAssistant to Director: Joe Rocha\n\n--\n\n\nOfficial Channel of Lyrical Lemonade \n\nSubscribe for updates on music videos, interviews, performance videos, etc.\n\nLyrical Lemonade's Spotify Playlist:\nhttps://open.spotify.com/user/gh3vdz775oy18ah1wp9ucxsj5/playlist/5UuPeWDR2I8a8pORvW9vmr\n\nLyrical Lemonade Socials:\n\nhttp://www.twitter.com/lyricalemonade\nhttp://www.instagram.com/lyricalemonade\nhttp://www.facebook.com/lyricalemonade\nhttp://www.lyricallemonade.com\n\n\nCole Bennett Socials:\n\nhttp://www.twitter.com/_colebennett_\nhttp://www.instagram.com/colebennett\n\nLENNY ~ a hidden character representing happiness & good energy\nhttp://instagram.com/lenny"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8SUT4sApBwPybuRgjvo0xT30MB0",
+      "id": "ZL7J20xnxws",
+      "snippet": {
+        "publishedAt": "2023-12-08T14:30:23Z",
+        "channelId": "UCvt0HYxX34vUvqu66HLXeUw",
+        "title": "Day 1 of The Deadliest Public SMP [Lifesteal]",
+        "description": "Java IP: lifesteal.net\nBedrock IP: bedrock.lifesteal.net\n\n\nWhere I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZL7J20xnxws/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZL7J20xnxws/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZL7J20xnxws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZL7J20xnxws/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZL7J20xnxws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "rekrap2",
+        "tags": ["rekrap", "lifesteal", "Minecraft"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Day 1 of The Deadliest Public SMP [Lifesteal]",
+          "description": "Java IP: lifesteal.net\nBedrock IP: bedrock.lifesteal.net\n\n\nWhere I get my music: \n-Epidemic Sound-   https://www.epidemicsound.com/referral/hdky6e/"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KcDSNcvKHtpai3o5xn7rqmwtpaY",
+      "id": "3LG8f-L03GU",
+      "snippet": {
+        "publishedAt": "2023-12-08T05:02:42Z",
+        "channelId": "UC3jOd7GUMhpgJRBhiLzuLsg",
+        "title": "Nicki Minaj - Are You Gone Already (Official Audio)",
+        "description": "Official audio for Nicki Minaj \"Are You Gone Already\" available everywhere now: https://NickiMinaj.lnk.to/PinkFriday2\n\n►Connect with Nicki 🎀🦄\nhttps://www.nickiminajofficial.com\nhttps://instagram.com/nickiminaj\nhttps://twitter.com/nickiminaj\nhttps://facebook.com/nickiminaj\nhttps://snapchat.com/add/nickiminaj\nhttps://tiktok.com/@nickiminaj\n\n►Shop Official Merch: https://shop.nickiminajofficial.com\n\n►Subscribe on YouTube: http://bit.ly/NickiMinajYTSub\n\n#NickiMinaj #PinkFriday2",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3LG8f-L03GU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3LG8f-L03GU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3LG8f-L03GU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/3LG8f-L03GU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/3LG8f-L03GU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Nicki Minaj",
+        "tags": [
+          "nicki",
+          "minaj",
+          "nicki minaj",
+          "pink friday",
+          "young money",
+          "The Pink Print",
+          "Pink Print"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Nicki Minaj - Are You Gone Already (Official Audio)",
+          "description": "Official audio for Nicki Minaj \"Are You Gone Already\" available everywhere now: https://NickiMinaj.lnk.to/PinkFriday2\n\n►Connect with Nicki 🎀🦄\nhttps://www.nickiminajofficial.com\nhttps://instagram.com/nickiminaj\nhttps://twitter.com/nickiminaj\nhttps://facebook.com/nickiminaj\nhttps://snapchat.com/add/nickiminaj\nhttps://tiktok.com/@nickiminaj\n\n►Shop Official Merch: https://shop.nickiminajofficial.com\n\n►Subscribe on YouTube: http://bit.ly/NickiMinajYTSub\n\n#NickiMinaj #PinkFriday2"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
